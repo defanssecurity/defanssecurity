@@ -29,5 +29,7 @@
 <meta property="og:url" content="defanssecurity.com.tr"/>
 </head>
 <body style="background: linear-gradient(110deg, #171c1b 50%, #ffed4b 50%);">
-<img src="http://defanssecurity.com.tr/assets/img/defanssecurity-logo.svg" />
+  <div align="center">
+    <img src="http://defanssecurity.com.tr/assets/img/defanssecurity-logo.svg" />
+  </div>
 </body>
