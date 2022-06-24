@@ -34,4 +34,6 @@
     <h2>Defans Security GitHub Page</h2>
   </div>
   <br>
+  <h2>Biz Kimiz ?</h2>
+  <p>Defans Security DataHouse bünyesinde kurulmuş olan 1995 yılından beri çözüm ve hizmet ürettiği bilgi güvenliği sektöründe, siber güvenlik, iş çözümleri, sistem entegrasyon çalışmaları, dış kaynak kullanımı, servis ve bakım hizmetleri, network çözümleri ve bilgi güvenliği danışmanlığı konularında hızlı, etkili ve en güvenilir çözümleri sunar.</p>
 </body>
