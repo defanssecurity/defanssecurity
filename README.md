@@ -33,4 +33,5 @@
     <img src="http://defanssecurity.com.tr/assets/img/defanssecurity-logo.svg" />
     <h2>Defans Security GitHub Page</h2>
   </div>
+  <br>
 </body>
