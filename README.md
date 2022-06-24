@@ -35,4 +35,11 @@
   </div>
   <h2>Biz Kimiz ?</h2>
   <p>Defans Security DataHouse bünyesinde kurulmuş olan 1995 yılından beri çözüm ve hizmet ürettiği bilgi güvenliği sektöründe, siber güvenlik, iş çözümleri, sistem entegrasyon çalışmaları, dış kaynak kullanımı, servis ve bakım hizmetleri, network çözümleri ve bilgi güvenliği danışmanlığı konularında hızlı, etkili ve en güvenilir çözümleri sunar.</p>
+  <h2>Hizmetlerimiz </h2>
+  <ul>
+    <li>Penetrasyon Test Hizmeti</li>
+    <li>Bilgi Güvenliği Danışmanlığı</li>
+    <li>Eğitim Hizmetleri</li>
+    <li>Risk Analizi</li>
+  </ul>
 </body>
