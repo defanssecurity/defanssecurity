@@ -31,5 +31,6 @@
 <body style="background: linear-gradient(110deg, #171c1b 50%, #ffed4b 50%);">
   <div align="center">
     <img src="http://defanssecurity.com.tr/assets/img/defanssecurity-logo.svg" />
+    <h2>Defans Security GitHub Page</h2>
   </div>
 </body>
