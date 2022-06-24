@@ -31,7 +31,7 @@
 <body style="background: linear-gradient(110deg, #171c1b 50%, #ffed4b 50%);">
   <div align="center">
     <img src="http://defanssecurity.com.tr/assets/img/defanssecurity-logo.svg" />
-    <h2>Defans Security GitHub Page</h2>
+    <h2>Defans Security GitHub Sayfası</h2>
   </div>
   <h2>Biz Kimiz ?</h2>
   <p>Defans Security DataHouse bünyesinde kurulmuş olan 1995 yılından beri çözüm ve hizmet ürettiği bilgi güvenliği sektöründe, siber güvenlik, iş çözümleri, sistem entegrasyon çalışmaları, dış kaynak kullanımı, servis ve bakım hizmetleri, network çözümleri ve bilgi güvenliği danışmanlığı konularında hızlı, etkili ve en güvenilir çözümleri sunar.</p>
